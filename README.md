@@ -7,7 +7,7 @@ Collect some amazing apps, tools, and stuff from Flutter community. Thanks to de
 | 1 | Visualize the keystrokes | <img src="./images/keyviz.png"></img> | [keyviz](https://github.com/mulaRahul/keyviz) | mulaRahul |
 
 ## Contribute
-- If you feel good and learn something from tips and tricks, you can star and share to other developers.
+- If you feel good and learn something from this repository, you can star and share to other developers.
 - If you have some idea, please discuss with me or commit PR.
 
 ## More of me
